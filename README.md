@@ -82,4 +82,3 @@ print(final_answer)
 ## Conclusion
 
 This Two-Model Chain-of-Thought (CoT) system offers an innovative approach to improving AI reasoning. By combining the strengths of two powerful models, it ensures that answers are not only accurate but also concise. This method provides a reliable, efficient way to refine complex responses in real-time.
-Join Us | https://settersai.app
